@@ -9,6 +9,7 @@ Hello, I'm Federico Romero! 👋 At 24 years old, I am constantly looking for op
 👨‍💻 You can review my contributions on the following platforms:
 
 GitLab: https://gitlab.com/federico.romero2
+
 GitHub: https://github.com/Federom99
 
 I am always open to new opportunities and collaborations. Do not hesitate to contact me by email: federo.15.99@gmail.com
